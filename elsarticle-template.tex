@@ -1,0 +1,193 @@
+%%
+%% Copyright 2007, 2008, 2009 Elsevier Ltd
+%%
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%%
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%%
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%%
+
+%% Template article for Elsevier's document class `elsarticle'
+%% with numbered style bibliographic references
+%% SP 2008/03/01
+%%
+%%
+%%
+%% $Id: elsarticle-template-num.tex 4 2009-10-24 08:22:58Z rishi $
+%%
+%%
+\documentclass[preprint,12pt,5p]{elsarticle}
+%% Use the option review to obtain double line spacing
+%% \documentclass[preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% if you use PostScript figures in your article
+%% use the graphics package for simple commands
+%% \usepackage{graphics}
+%% or use the graphicx package for more complicated commands
+%% \usepackage{graphicx}
+%% or use the epsfig package if you prefer to use the old commands
+%% \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers after \end{frontmatter}.
+%% \usepackage{lineno}
+
+%% natbib.sty is loaded by default. However, natbib options can be
+%% provided with \biboptions{...} command. Following options are
+%% valid:
+
+%%   round  -  round parentheses are used (default)
+%%   square -  square brackets are used   [option]
+%%   curly  -  curly braces are used      {option}
+%%   angle  -  angle brackets are used    <option>
+%%   semicolon  -  multiple citations separated by semi-colon
+%%   colon  - same as semicolon, an earlier confusion
+%%   comma  -  separated by comma
+%%   numbers-  selects numerical citations
+%%   super  -  numerical citations as superscripts
+%%   sort   -  sorts multiple citations according to order in ref. list
+%%   sort&compress   -  like sort, but also compresses numerical citations
+%%   compress - compresses without sorting
+%%
+%% \biboptions{comma,round}
+
+% \biboptions{}
+
+
+\journal{Nuclear Physics B}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Security for IoT}
+
+\tnotetext[label0]{This is only an example}
+
+ 
+\author[label1]{Jigar Thakkar}
+\address[label1]{Master of IT,The University of Melbourne, Vic - 3010, Australia, thakkarj@student.unimelb.edu.au}
+\address[label2]{Address Two\fnref{label4}}
+
+\cortext[cor1]{I am corresponding author}
+\fntext[label3]{I also want to inform about\ldots}
+\fntext[label4]{Small city}
+
+\ead{author.one@mail.com}
+\ead[url]{author-one-homepage.com}
+
+\author[label5]{Author Two}
+\address[label5]{Some University}
+\ead{author.two@mail.com}
+
+\author[label1,label5]{Author Three}
+\ead{author.three@mail.com}
+
+\begin{abstract}
+Text of abstract. Text of abstract. Text of abstract. Text of abstract. Text of abstract. 
+\end{abstract}
+
+\begin{keyword}
+%% keywords here, in the form: keyword \sep keyword
+example \sep \LaTeX \sep template
+%% MSC codes here, in the form: \MSC code \sep code
+%% or \MSC[2008] code \sep code (2000 is the default)
+\end{keyword}
+
+\end{frontmatter}
+
+%%
+%% Start line numbering here if you want
+%%
+% \linenumbers
+
+%% main text
+\section{Introduction}
+During last three decades connecting computers was a major focus, which becomes a global network of computers - the internet. The Internet has enabled us to do all kind of things which was science fiction just three decades ago like group video calling, www, and cryptocurrency. 
+Next revolution which started to shaping is a network of devices like sensors,  RFIDs and all kind of things- the internet of things. 
+Imagine one day in the future your car will not only drive itself but downloads all the latest traffic information of that area and choose the best route to go to office from your home, after dropping you at office it'll find parking space by itself, and if car is needed any maintenance it will order parts by itself and goes itself to the manufacturer for repair. When you finish your work in the evening and start going back towards your home, smartwatch or wristband measure your body temperature and send it to smart home/automatic temperature control system, so it starts maintaining temperature. When you go home, your home will know in which part of the home you are and what activity you are doing, Lights will start turning on/ off as you move. When you go to the fridge it will not only show you which items it has but sophisticated algorithms will show you a list of recipes which you can prepare from that items, it also preorders items in case it is running out, and smart internet enabled drones delivers it at your doorstep. IoT is not only for making human life easy but also healthy and safer, smart pacemaker directly sends data of heart to the doctor/or some smart AI system, so in case of emergency autonomous ambulance immediately takes the patient to the nearest hospital. IoT is not only things doing smartly but also efficiently, and this is not future it all already started, according to estimate IoT will have more than 30 billion internet connected devices before 2020, If we consider 7 billion population of the world, it is more than 4 devices per person. A huge chunk of this devices currently uses in industry, Australias largest independent oil and gas company Woodside has already deployed 200,000 smart internet-connected sensors for plant monitoring in Perth, Western Australia. IoT is not just helping to manage industries but making them more productive and safer.\cite{Bloede2015}
+
+But this all shiny promises of IoT turns dark when it got hacked, Security is becoming major issues in IoT, now imagine some malicious blackhat criminals hack your car with you, and force you to pay a ransom, governments start spying you by your smart home. What can be more dangerous than your body implanted device like pacemaker get hack? Industries can be sabotaged in the same way, And this also started happening. Germany recently banned smart doll which was spying, the DDoS attack happened by the network of IP cameras which was used as IoT botnet. Attack by using IoT devices are much more disastrous than an attack on your computer because this can harm you physically, like bad robots of Hollywood movies.
+
+Security is challenging for IoT because devices are itself very small with limited capabilities and resources, Most of the device is embedded devices with few MB of RAM and limited storage capabilities, Most common example is Raspberry Pi, but most industries built device are a custom build. The device resources not only issue for the security but nature of the device itself can a problem, For example, some device is hard to replace once installed like devices used in some remote areas, or in space and inside the human body. Encryption algorithm also has a limited lifespan, like RSA, before 10 years even 512-bit key size RSA was hard to break, but nowadays standard is using 2048 bit RSA. As the progress quantum computers, the work of Proos and Zalka shows that using 4096 qubit quantum computer and Shor's algorithm RSA - 2048 bit can be broken. \cite{Beckman1996}
+Making key size larger is not the solution of this as computation power of quantum computers double as adding each new qubit, countering this we have to double RSA key size on each qubit, so it is clear that larger key size is an issue here for limited resources of IoT.
+
+Our approach and proposed algorithms not only for making IoT secure today but we also emphasis making IoT secure even in quantum age. We have proposed a cloud-based system using ECC (elliptic curve cryptography) which can be used today. ECC is much powerful compared to RSA with smaller key size. 256bit ECC is equivalent in security compared to 3072bit key size of RSA and 384 bit ECC is equivalent in security compared  7680bit RSA. Because of this properties NSA (National Security Agency) use classified top secret information with 384bit keys. 
+
+After having sufficient Quantum computer ECC we have to replace ECC or make the key size bigger as RSA, according to estimate that it will still be unbreakable until next 15-20 years. Quantum computers cannot break all the encryption they only break encryption for bounded error quantum polynomial time BQP class problems, so NP-complete problems are out of reach for quantum computers. AES and SNOW are resilient to attack by a quantum computer. Another reason for choosing conventional AES and SNOW algorithm is this algorithm is relatively simple to use.
+
+AES/SHA-3  which is block cipher and SNOW which is a stream cipher. [write something about AES] [write something about SNOW]
+
+
+\section{Related work}
+IoT implementation is pretty new but the potential risk of IoT also introduced in 1990 with the concept of IoT.\cite{7165580} Unfortunately, most of the device is sold without security measures and old unpatched software and embedded operating systems. Another major problem is users not do the effort to change default passwords,  this device can easily use for botnets. (This kind of unsecured devices can be found on www.shodan.io). Another challenge is IoT devices cannot be secure with firewall, anti-malware systems due to a smaller size, limited resources. Also, multilayer security is necessary for achieving any foolproof security measures. From the three perception layer, transportation layer and application layer \cite{Yang2012}. 
+Addressing security issues on each different layer is the best way in the direction of achieving a solution to a security issue. \cite{Jing2014} application layer- Authentication is only of the scope of the paper.  
+
+Many different kinds of security architectures and algorithms proposed over last 2 decades. From that Blockchain and smart contract for IoT is the different and interesting approach for solving trust issues over a peer-to-peer network.\cite{christidis2016blockchains}
+
+Privacy of the user is also a huge concern, and it is hard to deal than security as various governments have a different view on it, it is more political than a technical issue.\cite{Weber2010}
+
+IoT devices often used in large quantity in the industry as internet-connected sensors, Cloud servers are used to integrate and manage them, Data mining and data visualization application runs on top of that.  How a large number of IoT device can be managed using ECC, PKC are described in Secure authentication scheme for IoT and cloud servers paper by Sheetal Kalra. in his approach, all heavy work is done at the powerful cloud servers so small IoT embedded devices can only have to store small ECC key. \cite{Kalra2015}
+
+[Related work of AES]
+[Related work of SNOW]
+
+
+%% The Appendices part is started with the command \appendix;
+%% appendix sections are then done as normal sections
+
+
+
+%% References
+%%
+%% Following citation commands can be used in the body text:
+%% Usage of \cite is as follows:
+%%   \cite{key}         ==>>  [#]
+%%   \cite[chap. 2]{key} ==>> [#, chap. 2]
+%%
+
+%% References with bibTeX database:
+
+\bibliographystyle{elsarticle-num}
+%\bibliographystyle{elsarticle-harv}
+% \bibliographystyle{elsarticle-num-names}
+% \bibliographystyle{model1a-num-names}
+% \bibliographystyle{model1b-num-names}
+% \bibliographystyle{model1c-num-names}
+% \bibliographystyle{model1-num-names}
+% \bibliographystyle{model2-names}
+% \bibliographystyle{model3a-num-names}
+% \bibliographystyle{model3-num-names}
+% \bibliographystyle{model4-names}
+% \bibliographystyle{model5-names}
+% \bibliographystyle{model6-num-names}
+
+\bibliography{sample}
+
+\end{document}
+
+%%
+%% End of file `elsarticle-template-num.tex'.
