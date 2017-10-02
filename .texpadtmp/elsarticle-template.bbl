@@ -52,15 +52,12 @@ J.~Singh, T.~Pasquier, J.~Bacon, H.~Ko, D.~Eyers, Twenty security
   {\path{doi:10.1109/JIOT.2015.2460333}}.
 
 \bibitem{Yang2012}
-X.~Yang, Z.~Li, Z.~Geng, H.~Zhang, {A multi-layer security model for internet
-  of things}, Vol. 312 CCIS, 2012.
-\newblock \href {http://dx.doi.org/10.1007/978-3-642-32427-7_54}
-  {\path{doi:10.1007/978-3-642-32427-7_54}}.
+X.~Yang, Z.~Li, Z.~Geng, H.~Zhang, A multi-layer security model for internet of
+  things, Internet of things.
 
 \bibitem{Jing2014}
 Q.~Jing, A.~V. Vasilakos, J.~Wan, J.~Lu, D.~Qiu, Security of the internet of
-  things: Perspectives and challenges, Wireless Networks 20~(8) (2014)
-  2481--2501.
+  things: Perspectives and challenges, Wireless Networks (2014) 2481--2501.
 
 \bibitem{christidis2016blockchains}
 K.~Christidis, M.~Devetsikiotis, Blockchains and smart contracts for the
