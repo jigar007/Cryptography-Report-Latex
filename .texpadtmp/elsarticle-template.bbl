@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{gerla2014internet}
+M.~Gerla, E.-K. Lee, G.~Pau, U.~Lee, Internet of vehicles: From intelligent
+  grid to autonomous cars and vehicular clouds, in: Internet of Things
+  (WF-IoT), 2014 IEEE World Forum on, IEEE, 2014, pp. 241--246.
+
+\bibitem{han2010smart}
+D.-M. Han, J.-H. Lim, Smart home energy management system using ieee 802.15. 4
+  and zigbee, IEEE Transactions on Consumer Electronics 56~(3).
+
+\bibitem{helal2005gator}
+S.~Helal, W.~Mann, H.~El-Zabadani, J.~King, Y.~Kaddoura, E.~Jansen, The gator
+  tech smart house: A programmable pervasive space, Computer 38~(3) (2005)
+  50--60.
+
+\bibitem{zhou2014unmanned}
+T.~T. Zhou, D.~T. Zhou, A.~H. Zhou, Unmanned drone, robot system for delivering
+  mail, goods, humanoid security, crisis negotiation, mobile payments, smart
+  humanoid mailbox and wearable personal exoskeleton heavy load flying machine,
+  uS Patent App. 14/285,659 (May~23 2014).
+
+\bibitem{atzori2010internet}
+L.~Atzori, A.~Iera, G.~Morabito, The internet of things: A survey, Computer
+  networks 54~(15) (2010) 2787--2805.
+
+\bibitem{Bloede2015}
+K.~Bloede, G.~Mischou, A.~Senan, R.~Koontz,
+  \href{http://www.woodsidecap.com/wp-content/uploads/2015/03/WCP-IOT-M{\_}and{\_}A-REPORT-2015-3.pdf}{{Silicon
+  Valley London THE INTERNET OF THINGS " Smart " Products Demand a Smart
+  Strategy Using M{\&}A for a Competitive Edge Investment Banking Research}}.
+\newline\urlprefix\url{http://www.woodsidecap.com/wp-content/uploads/2015/03/WCP-IOT-M{\_}and{\_}A-REPORT-2015-3.pdf}
+
+\bibitem{Beckman1996}
+D.~Beckman, A.~N. Chari, S.~Devabhaktuni, J.~Preskill,
+  \href{https://link.aps.org/doi/10.1103/PhysRevA.54.1034}{{Efficient networks
+  for quantum factoring}}, Physical Review A 54~(2) (1996) 1034--1063.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevA.54.1034}
+  {\path{doi:10.1103/PhysRevA.54.1034}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.54.1034}
+
+\bibitem{7165580}
+J.~Singh, T.~Pasquier, J.~Bacon, H.~Ko, D.~Eyers, Twenty security
+  considerations for cloud-supported internet of things, IEEE Internet of
+  Things Journal 3~(3) (2016) 269--284.
+\newblock \href {http://dx.doi.org/10.1109/JIOT.2015.2460333}
+  {\path{doi:10.1109/JIOT.2015.2460333}}.
+
+\bibitem{Yang2012}
+X.~Yang, Z.~Li, Z.~Geng, H.~Zhang, {A multi-layer security model for internet
+  of things}, Vol. 312 CCIS, 2012.
+\newblock \href {http://dx.doi.org/10.1007/978-3-642-32427-7_54}
+  {\path{doi:10.1007/978-3-642-32427-7_54}}.
+
+\bibitem{Jing2014}
+Q.~Jing, A.~V. Vasilakos, J.~Wan, J.~Lu, D.~Qiu, Security of the internet of
+  things: Perspectives and challenges, Wireless Networks 20~(8) (2014)
+  2481--2501.
+
+\bibitem{christidis2016blockchains}
+K.~Christidis, M.~Devetsikiotis, Blockchains and smart contracts for the
+  internet of things, IEEE Access 4 (2016) 2292--2303.
+
+\bibitem{Weber2010}
+R.~H. Weber, \href{http://dx.doi.org/10.1016/j.clsr.2009.11.008}{{Internet of
+  Things - New security and privacy challenges}}, Computer Law and Security
+  Review 26~(1) (2010) 23--30.
+\newblock \href {http://arxiv.org/abs/96332259} {\path{arXiv:96332259}}, \href
+  {http://dx.doi.org/10.1016/j.clsr.2009.11.008}
+  {\path{doi:10.1016/j.clsr.2009.11.008}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.clsr.2009.11.008}
+
+\bibitem{Kalra2015}
+S.~Kalra, S.~K. Sood,
+  \href{http://dx.doi.org/10.1016/j.pmcj.2015.08.001}{{Secure authentication
+  scheme for IoT and cloud servers}}, Pervasive and Mobile Computing 24 (2015)
+  210--223.
+\newblock \href {http://dx.doi.org/10.1016/j.pmcj.2015.08.001}
+  {\path{doi:10.1016/j.pmcj.2015.08.001}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.pmcj.2015.08.001}
+
+\end{thebibliography}
