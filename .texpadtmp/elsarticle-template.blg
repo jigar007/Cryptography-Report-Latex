@@ -8,45 +8,45 @@ Repeated entry---line 136 of file ../sample.bib
  :                            ,
 I'm skipping whatever remains of this entry
 Warning--empty journal in Bloede2015
-You've used 13 entries,
+You've used 14 entries,
             2937 wiz_defined-function locations,
-            764 strings with 7999 characters,
-and the built_in function-call counts, 4092 in all, are:
-= -- 395
-> -- 148
+            770 strings with 8255 characters,
+and the built_in function-call counts, 4423 in all, are:
+= -- 426
+> -- 164
 < -- 1
-+ -- 58
-- -- 45
-* -- 325
-:= -- 582
-add.period$ -- 17
-call.type$ -- 13
-change.case$ -- 14
++ -- 64
+- -- 50
+* -- 354
+:= -- 630
+add.period$ -- 18
+call.type$ -- 14
+change.case$ -- 15
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 117
-empty$ -- 426
-format.name$ -- 57
-if$ -- 1024
+cite$ -- 15
+duplicate$ -- 125
+empty$ -- 458
+format.name$ -- 63
+if$ -- 1104
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 12
-newline$ -- 55
-num.names$ -- 13
-pop$ -- 81
+int.to.str$ -- 14
+missing$ -- 13
+newline$ -- 58
+num.names$ -- 14
+pop$ -- 86
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 238
+skip$ -- 255
 stack$ -- 0
-substring$ -- 242
-swap$ -- 32
+substring$ -- 267
+swap$ -- 33
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 31
-width$ -- 15
-write$ -- 121
+while$ -- 34
+width$ -- 16
+write$ -- 129
 (There was 1 error message)
