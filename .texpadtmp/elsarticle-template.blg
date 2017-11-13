@@ -1,52 +1,49 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/jigarthakkar/Desktop/cryptography/.texpadtmp/elsarticle-template.aux
+The top-level auxiliary file: /Users/jigarthakkar/Desktop/Cryptography-Report-Latex/.texpadtmp/elsarticle-template.aux
 The style file: ../elsarticle-num.bst
 Database file #1: ../sample.bib
-Repeated entry---line 136 of file ../sample.bib
- : @article{atzori2010internet
- :                            ,
-I'm skipping whatever remains of this entry
-Warning--empty journal in Bloede2015
-You've used 14 entries,
+Warning--empty pages in ohkubo2003
+Warning--empty pages in ohkubo2004
+You've used 29 entries,
             2937 wiz_defined-function locations,
-            770 strings with 8255 characters,
-and the built_in function-call counts, 4423 in all, are:
-= -- 426
-> -- 164
-< -- 1
-+ -- 64
-- -- 50
-* -- 354
-:= -- 630
-add.period$ -- 18
-call.type$ -- 14
-change.case$ -- 15
+            842 strings with 10763 characters,
+and the built_in function-call counts, 10007 in all, are:
+= -- 933
+> -- 302
+< -- 16
++ -- 120
+- -- 91
+* -- 628
+:= -- 1261
+add.period$ -- 30
+call.type$ -- 29
+change.case$ -- 28
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 125
-empty$ -- 458
-format.name$ -- 63
-if$ -- 1104
+cite$ -- 31
+duplicate$ -- 366
+empty$ -- 1183
+format.name$ -- 117
+if$ -- 2660
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 13
-newline$ -- 58
-num.names$ -- 14
-pop$ -- 86
+int.to.str$ -- 29
+missing$ -- 30
+newline$ -- 96
+num.names$ -- 29
+pop$ -- 244
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 255
+skip$ -- 705
 stack$ -- 0
-substring$ -- 267
-swap$ -- 33
-text.length$ -- 1
+substring$ -- 578
+swap$ -- 116
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 34
-width$ -- 16
-write$ -- 129
-(There was 1 error message)
+warning$ -- 2
+while$ -- 82
+width$ -- 31
+write$ -- 253
+(There were 2 warnings)

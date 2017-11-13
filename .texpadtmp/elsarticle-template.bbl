@@ -35,55 +35,116 @@ L.~Atzori, A.~Iera, G.~Morabito, The internet of things: A survey, Computer
   networks 54~(15) (2010) 2787--2805.
 
 \bibitem{Bloede2015}
-K.~Bloede, G.~Mischou, A.~Senan, R.~Koontz,
-  \href{http://www.woodsidecap.com/wp-content/uploads/2015/03/WCP-IOT-M{\_}and{\_}A-REPORT-2015-3.pdf}{{Silicon
-  Valley London THE INTERNET OF THINGS " Smart " Products Demand a Smart
-  Strategy Using M{\&}A for a Competitive Edge Investment Banking Research}}.
-\newline\urlprefix\url{http://www.woodsidecap.com/wp-content/uploads/2015/03/WCP-IOT-M{\_}and{\_}A-REPORT-2015-3.pdf}
+K.~Bloede, G.~Mischou, A.~Senan, R.~Koontz, {Silicon Valley London THE INTERNET
+  OF THINGS " Smart " Products Demand a Smart Strategy Using M{\&}A for a
+  Competitive Edge Investment Banking Research}, WCP.
 
 \bibitem{Beckman1996}
-D.~Beckman, A.~N. Chari, S.~Devabhaktuni, J.~Preskill,
-  \href{https://link.aps.org/doi/10.1103/PhysRevA.54.1034}{{Efficient networks
-  for quantum factoring}}, Physical Review A 54~(2) (1996) 1034--1063.
+D.~Beckman, A.~N. Chari, S.~Devabhaktuni, J.~Preskill, {Efficient networks for
+  quantum factoring}, Physical Review A 54~(2) (1996) 1034--1063.
 \newblock \href {http://dx.doi.org/10.1103/PhysRevA.54.1034}
   {\path{doi:10.1103/PhysRevA.54.1034}}.
-\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.54.1034}
 
-\bibitem{7165580}
-J.~Singh, T.~Pasquier, J.~Bacon, H.~Ko, D.~Eyers, Twenty security
-  considerations for cloud-supported internet of things, IEEE Internet of
-  Things Journal 3~(3) (2016) 269--284.
-\newblock \href {http://dx.doi.org/10.1109/JIOT.2015.2460333}
-  {\path{doi:10.1109/JIOT.2015.2460333}}.
+\bibitem{bernstein2009}
+D.~J. Bernstein, Introduction to post-quantum cryptography, in: Post-quantum
+  cryptography, Springer, 2009, pp. 1--14.
 
-\bibitem{Yang2012}
-X.~Yang, Z.~Li, Z.~Geng, H.~Zhang, A multi-layer security model for internet of
-  things, Internet of things.
+\bibitem{gabriel2013}
+A.~Gabriel, B.~K. Alese, A.~Adetunmbi, O.~S. Adewale, Post-quantum
+  crystography: A combination of post-quantum cryptography and steganography,
+  in: Internet Technology and Secured Transactions (ICITST), 2013 8th
+  International Conference for, IEEE, 2013, pp. 449--452.
 
-\bibitem{Jing2014}
-Q.~Jing, A.~V. Vasilakos, J.~Wan, J.~Lu, D.~Qiu, Security of the internet of
-  things: Perspectives and challenges, Wireless Networks (2014) 2481--2501.
+\bibitem{hoffstein2008introduction}
+J.~Hoffstein, J.~C. Pipher, J.~H. Silverman, J.~H. Silverman, An introduction
+  to mathematical cryptography, Vol.~1, Springer, 2008.
 
-\bibitem{christidis2016blockchains}
-K.~Christidis, M.~Devetsikiotis, Blockchains and smart contracts for the
-  internet of things, IEEE Access 4 (2016) 2292--2303.
+\bibitem{du2015}
+C.~Du, G.~Bai, A family of scalable polynomial multiplier architectures for
+  lattice-based cryptography, in: Trustcom/BigDataSE/ISPA, 2015 IEEE, Vol.~1,
+  IEEE, 2015, pp. 392--399.
 
-\bibitem{Weber2010}
-R.~H. Weber, \href{http://dx.doi.org/10.1016/j.clsr.2009.11.008}{{Internet of
-  Things - New security and privacy challenges}}, Computer Law and Security
-  Review 26~(1) (2010) 23--30.
-\newblock \href {http://arxiv.org/abs/96332259} {\path{arXiv:96332259}}, \href
-  {http://dx.doi.org/10.1016/j.clsr.2009.11.008}
-  {\path{doi:10.1016/j.clsr.2009.11.008}}.
-\newline\urlprefix\url{http://dx.doi.org/10.1016/j.clsr.2009.11.008}
+\bibitem{crockett2016}
+E.~Crockett, C.~Peikert, $\lambda$o$\lambda$: Functional lattice cryptography,
+  in: Proceedings of the 2016 ACM SIGSAC Conference on Computer and
+  Communications Security, ACM, 2016, pp. 993--1005.
 
-\bibitem{Kalra2015}
-S.~Kalra, S.~K. Sood,
-  \href{http://dx.doi.org/10.1016/j.pmcj.2015.08.001}{{Secure authentication
-  scheme for IoT and cloud servers}}, Pervasive and Mobile Computing 24 (2015)
-  210--223.
-\newblock \href {http://dx.doi.org/10.1016/j.pmcj.2015.08.001}
-  {\path{doi:10.1016/j.pmcj.2015.08.001}}.
-\newline\urlprefix\url{http://dx.doi.org/10.1016/j.pmcj.2015.08.001}
+\bibitem{aysu2013}
+A.~Aysu, C.~Patterson, P.~Schaumont, Low-cost and area-efficient fpga
+  implementations of lattice-based cryptography, in: Hardware-Oriented Security
+  and Trust (HOST), 2013 IEEE International Symposium on, IEEE, 2013, pp.
+  81--86.
+
+\bibitem{grover1996}
+L.~K. Grover, A fast quantum mechanical algorithm for database search, in:
+  Proceedings of the twenty-eighth annual ACM symposium on Theory of computing,
+  ACM, 1996, pp. 212--219.
+
+\bibitem{kuwakado2010}
+H.~Kuwakado, M.~Morii, Quantum distinguisher between the 3-round feistel cipher
+  and the random permutation, in: Information Theory Proceedings (ISIT), 2010
+  IEEE International Symposium on, IEEE, 2010, pp. 2682--2685.
+
+\bibitem{simon1997}
+D.~R. Simon, On the power of quantum computation, SIAM journal on computing
+  26~(5) (1997) 1474--1483.
+
+\bibitem{roetteler2015}
+M.~Roetteler, R.~Steinwandt, A note on quantum related-key attacks, Information
+  Processing Letters 115~(1) (2015) 40--44.
+
+\bibitem{kaplan2016}
+M.~Kaplan, G.~Leurent, A.~Leverrier, M.~Naya-Plasencia, Breaking symmetric
+  cryptosystems using quantum period finding, in: Annual Cryptology Conference,
+  Springer, 2016, pp. 207--237.
+
+\bibitem{kaplan2015}
+M.~Kaplan, G.~Leurent, A.~Leverrier, M.~Naya-Plasencia, Quantum differential
+  and linear cryptanalysis, arXiv preprint arXiv:1510.05836.
+
+\bibitem{sghaier2017}
+A.~Sghaier, M.~Zeghid, C.~Massoud, M.~Mahchout, Design and implementation of
+  low area/power elliptic curve digital signature hardware core, Electronics
+  6~(2) (2017) 46.
+
+\bibitem{kitsos2008}
+P.~Kitsos, Y.~Zhang, RFID security: techniques, protocols and system-on-chip
+  design, Springer Science \& Business Media, 2008.
+
+\bibitem{good2007}
+T.~Good, M.~Benaissa, Hardware results for selected stream cipher candidates,
+  State of the Art of Stream Ciphers 7 (2007) 191--204.
+
+\bibitem{ohkubo2003}
+M.~Ohkubo, K.~Suzuki, S.~Kinoshita, et~al., Cryptographic approach to
+  “privacy-friendly” tags, in: RFID privacy workshop, Vol.~82, Cambridge,
+  USA, 2003.
+
+\bibitem{ohkubo2004}
+M.~Ohkubo, K.~Suzuki, S.~Kinoshita, Efficient hash-chain based rfid privacy
+  protection scheme, in: International Conference on Ubiquitous
+  Computing--Ubicomp, Workshop Privacy: Current Status and Future Directions,
+  2004.
+
+\bibitem{avoine2005}
+G.~Avoine, E.~Dysli, P.~Oechslin, et~al., Reducing time complexity in rfid
+  systems, in: Selected Areas in Cryptography, Vol. 3897, Springer, 2005, pp.
+  291--306.
+
+\bibitem{avoine2013}
+G.~Avoine, M.~A. Bing{\"o}l, X.~Carpent, S.~B.~O. Yalcin, Privacy-friendly
+  authentication in rfid systems: on sublinear protocols based on symmetric-key
+  cryptography, IEEE Transactions on Mobile Computing 12~(10) (2013)
+  2037--2049.
+
+\bibitem{berbain2009}
+C.~Berbain, O.~Billet, J.~Etrog, H.~Gilbert, An efficient forward private rfid
+  protocol, in: Proceedings of the 16th ACM conference on Computer and
+  communications security, ACM, 2009, pp. 43--53.
+
+\bibitem{billet2010}
+O.~Billet, J.~Etrog, H.~Gilbert, Lightweight privacy preserving authentication
+  for rfid using a stream cipher, in: Fast Software Encryption, Springer, 2010,
+  pp. 55--74.
 
 \end{thebibliography}

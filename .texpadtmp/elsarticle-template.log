@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.22)  3 OCT 2017 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.22)  13 NOV 2017 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -77,7 +77,7 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
- (/Users/jigarthakkar/Desktop/cryptography/.texpadtmp/elsarticle-template.spl) (/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+ (/Users/jigarthakkar/Desktop/Cryptography-Report-Latex/.texpadtmp/elsarticle-template.spl) (/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
 \bibsep=\skip46
@@ -120,43 +120,55 @@ LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
 \appnamewidth=\dimen118
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read1
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks20
+\float@box=\box30
+\@float@everytoks=\toks21
+\@floatcapt=\box31
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks18
+\@emptytoks=\toks22
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/Users/jigarthakkar/Desktop/cryptography/.texpadtmp/elsarticle-template.aux)
+)) (/Users/jigarthakkar/Desktop/Cryptography-Report-Latex/.texpadtmp/elsarticle-template.aux)
 \openout1 = `elsarticle-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
  (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count98
+\scratchcounter=\count99
 \scratchdimen=\dimen119
-\scratchbox=\box30
-\nofMPsegments=\count99
-\nofMParguments=\count100
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count101
+\scratchbox=\box32
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count102
 \MPscratchDim=\dimen120
-\MPnumerator=\count102
-\makeMPintoPDFobject=\count103
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
@@ -227,42 +239,344 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 121.
+LaTeX Font Info:    Try loading font information for U+msa on input line 124.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 121.
+LaTeX Font Info:    Try loading font information for U+msb on input line 124.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] (/Users/jigarthakkar/Desktop/cryptography/.texpadtmp/elsarticle-template.bbl
-Overfull \hbox (153.41368pt too wide) in paragraph at lines 38--43
-\OT1/cmr/m/n/8 URL \OT1/cmtt/m/n/8 http://www.woodsidecap.com/wp-content/uploads/2015/03/WCP-IOT-M[]and[]A-REPORT-2015-3.pdf 
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+ <Lattice.png, id=13, 220.825pt x 112.42pt>
+File: Lattice.png Graphic file (type png)
+ <use Lattice.png>
+Package pdftex.def Info: Lattice.png used on input line 157.
+(pdftex.def)             Requested size: 156.6016pt x 79.72783pt.
+ [2 <./Lattice.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 163.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 163.
+
+./elsarticle-template.tex:165: You can't use `macro parameter character #' in math mode.
+<recently read> ##
+                  
+l.165 ... $n$ = (dimension of a lattice L) $x$ ($#
+                                                  $ of bits in a coordinate)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (7.77829pt too wide) in paragraph at lines 168--169
+[]\OT1/cmr/m/n/10 Using var-i-ous meth-ods for en-cryp-tion/decryption it takes
+ []
+
+./elsarticle-template.tex:176: Missing $ inserted.
+<inserted text> 
+                $
+l.176   A^
+          t\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./elsarticle-template.tex:177: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.177   .
+         ..\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./elsarticle-template.tex:177: Missing $ inserted.
+<inserted text> 
+                $
+l.177   .
+         ..\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./elsarticle-template.tex:177: Missing } inserted.
+<inserted text> 
+                }
+l.177   .
+         ..\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<LatticeBasedCryptography.png, id=24, 1162.3425pt x 828.09375pt>
+File: LatticeBasedCryptography.png Graphic file (type png)
+ <use LatticeBasedCryptography.png>
+Package pdftex.def Info: LatticeBasedCryptography.png used on input line 194.
+(pdftex.def)             Requested size: 156.6016pt x 111.56038pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Overfull \hbox (2.2668pt too wide) in paragraph at lines 210--211
+\OT1/cmr/m/n/10 Iden-ti-fi-ca-tion (RFID) based IoT ap-pli-ca-tions. For in-stance,
+ []
+
+[3 <./LatticeBasedCryptography.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]\OT1/cmr/m/n/10 Cryptographic
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 53--58
-\OT1/cmr/m/n/8 IEEE In-ter-net of Things Jour-nal 3 (3) (2016) 269--284.
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]\OT1/cmr/m/n/10 Area
  []
 
-[2]) [3
 
-] (/Users/jigarthakkar/Desktop/cryptography/.texpadtmp/elsarticle-template.aux) ) 
+Overfull \hbox (3.26953pt too wide) in paragraph at lines 224--224
+\OT1/cmr/m/n/10 (Slices)| 
+ []
+
+
+Overfull \hbox (1.93207pt too wide) in paragraph at lines 224--224
+[]\OT1/cmr/m/n/10 Frequency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]\OT1/cmr/m/n/10 Power
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+[]\OT1/cmr/m/n/10 Cryptographic
+ []
+
+
+Overfull \hbox (1.44019pt too wide) in paragraph at lines 241--241
+[]\OT1/cmr/m/n/10 Security
+ []
+
+./elsarticle-template.tex:241: Missing $ inserted.
+<inserted text> 
+                $
+l.241 ...tives & Security (bits) & $I_{mean}$ (\mu
+                                                   A) & Chip Area (GE)\\[0.5ex]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./elsarticle-template.tex:241: Missing $ inserted.
+<inserted text> 
+                $
+l.241 ... & Security (bits) & $I_{mean}$ (\mu A) &
+                                                   Chip Area (GE)\\[0.5ex]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+[]$\OML/cmm/m/it/10 I[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+[]\OT1/cmr/m/n/10 Chip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+\OT1/cmr/m/n/10 Area
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\OT1/cmr/m/n/10 Cryptographic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\OT1/cmr/m/n/10 Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\OT1/cmr/m/n/10 Clock
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+\OT1/cmr/m/n/10 Fre-quency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\OT1/cmr/m/n/10 Area
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Cryptographic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Internal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 States
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 (NLFSR
+ []
+
+
+Overfull \hbox (0.57097pt too wide) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Distingui-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 shing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 cov-ery
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Time-
+ []
+
+
+Overfull \hbox (5.32909pt too wide) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 Memory-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 Trade-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 Off
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Chosen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 IV
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/10 Guess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 and De-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+\OT1/cmr/m/n/10 ter-mine
+ []
+
+<PEPS.png, id=29, 682.80093pt x 397.485pt>
+File: PEPS.png Graphic file (type png)
+ <use PEPS.png>
+Package pdftex.def Info: PEPS.png used on input line 292.
+(pdftex.def)             Requested size: 261.0pt x 151.93744pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 292--293
+ [][] 
+ []
+
+[4]
+Overfull \hbox (7.10231pt too wide) in paragraph at lines 299--300
+\OT1/cmr/m/n/10 source con-strained de-vices. Con-sid-er-ing the up-com-ing quan-
+ []
+
+(/Users/jigarthakkar/Desktop/Cryptography-Report-Latex/.texpadtmp/elsarticle-template.bbl
+Underfull \hbox (badness 1533) in paragraph at lines 63--66
+[]\OT1/cmr/m/n/8 C. Du, G. Bai, A fam-ily of scal-able poly-no-mial mul-ti-
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 79--82
+[]\OT1/cmr/m/n/8 L. K. Grover, A fast quan-tum me-chan-i-cal al-go-rithm for
+ []
+
+[5 <./PEPS.png>]
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ú in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ù in font cmr8!
+) [6
+
+] (/Users/jigarthakkar/Desktop/Cryptography-Report-Latex/.texpadtmp/elsarticle-template.aux) ) 
 Here is how much of TeX's memory you used:
- 2928 strings out of 492995
- 40342 string characters out of 6132704
- 115603 words of memory out of 5000000
- 6430 multiletter control sequences out of 15000+600000
- 11310 words of font info for 43 fonts, out of 8000000 for 9000
+ 3092 strings out of 492995
+ 43230 string characters out of 6132704
+ 127662 words of memory out of 5000000
+ 6581 multiletter control sequences out of 15000+600000
+ 10782 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,7n,30p,2103b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on /Users/jigarthakkar/Desktop/cryptography/.texpadtmp/elsarticle-template.pdf (3 pages, 150540 bytes).
+ 39i,11n,30p,1620b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on /Users/jigarthakkar/Desktop/Cryptography-Report-Latex/.texpadtmp/elsarticle-template.pdf (6 pages, 297376 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
